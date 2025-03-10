@@ -1,6 +1,6 @@
-# Desafio Técnico - GetDemo
+# Desafio Técnico - 
 
-Este repositório contém o projeto desenvolvido para o desafio técnico da GetDemo, elaborado como parte do processo seletivo.
+Este repositório contém o projeto desenvolvido para o desafio técnico, elaborado como parte do processo seletivo.
 
 
 ### Funcionalidades Implementadas
